@@ -188,6 +188,21 @@
 - keywords: healthcare
 
 
+----
+
+## Machine Learning / Deep Learning Projects outside this repo
+
+[PyTorch based Image classifier and deployment using AWS Elastic Kubernetes Service (EKS)](https://github.com/delongmeng/Image_Classifier)
+
+
+[MovieLense recommendation system and web application deployment](https://github.com/delongmeng/MovieLense_Recommendation)
+
+
+### Deep Learning projects for healthcare applications
+
+see [this repo here](https://github.com/delongmeng/deep-learning-healthcare)
+
+
 
 
 *Note that html files can be viewed by adding `http://htmlpreview.github.io/?` to the front of the url. For example:*
